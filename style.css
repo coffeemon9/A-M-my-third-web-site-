@@ -1,0 +1,12 @@
+#white {
+        font-family: Papyrus, sans-serif, Arial ;
+      }
+footer {
+        text-align: center;
+        padding: 3px;
+        background-color: DarkSalmon;
+        color: white;
+      }
+span img {
+         border: hotpink 10px dotted;
+         }
